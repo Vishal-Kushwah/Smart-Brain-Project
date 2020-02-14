@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In order to start the app, you need to run npm install *packages name* 
+given in the package.json file under dependencies category
+
+After successful installation of all the packages just run only one command i.e. npm start
+It will automatically start the app in your browser and you can enjoy it afterwards.
+
 ## Available Scripts
 
 In the project directory, you can run:
